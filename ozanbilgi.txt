@@ -6,8 +6,8 @@ Yaş: 29
 
 Meslek: Chargeback Asistanı
 
-Hobi: Satnraç oynamak, veri analizi yapmak, kodlama alıştırmaları yapmak.
+Hobi: Satranç oynamak, veri analizi yapmak, kodlama alıştırmaları yapmak.
 
 Fobi: Yalandan korkarım
 
-Swift Deneyimi: 1 yıl
+Swift Deneyimi: Deneyimsiz
